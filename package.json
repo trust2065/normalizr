@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "runNode": "npx babel-node index.js",
+    "watch": "nodemon index.js --exec babel-node"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "normalizr": "^3.4.1"
+  }
+}

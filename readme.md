@@ -5,6 +5,7 @@
 ## How to use
 
 run `yarn runNode` to run `index.js` once
+
 run `yarn watch` to run `index.js` when it updated
 
 ## It transforms nested data to flat and non-duplicate data

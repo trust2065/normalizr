@@ -1,4 +1,4 @@
-# URL
+# Demonstrate normalizr function
 
 <https://github.com/paularmstrong/normalizr/>
 
